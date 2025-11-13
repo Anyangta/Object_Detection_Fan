@@ -68,6 +68,8 @@ try:
     print("=" * 60 + "\n")
     
     while True:
+
+        
         
         # ========== [상태 1] 버튼 대기 (초기 시작) ==========
         if current_state == 'WAITING_BUTTON':
